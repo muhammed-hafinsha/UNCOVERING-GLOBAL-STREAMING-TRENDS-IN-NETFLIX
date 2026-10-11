@@ -49,5 +49,4 @@ An exploratory data analysis (EDA) project exploring Netflix's content library t
 ## Conclusion
 This project demonstrates how exploratory data analysis can reveal patterns in a streaming platform's content library and support data-driven content strategy discussions.
 
-## Author
-Created as a Python data analysis project.
+
